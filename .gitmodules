@@ -1,0 +1,12 @@
+[submodule "PCB/Motoransteuerung/PCB"]
+	path = PCB/Motoransteuerung/PCB
+	url = https://github.com/Benji216/Fussballwurfmaschine-Hardware.git
+[submodule "PCB/Motoransteuerung/Hardware/PCB"]
+	path = PCB/Motoransteuerung/Hardware/PCB
+	url = https://github.com/Benji216/Fussballwurfmaschine-Hardware.git
+[submodule "PCB/Motoransteuerung/Hardware/Files"]
+	path = PCB/Motoransteuerung/Hardware/Files
+	url = https://github.com/Benji216/Fussballwurfmaschine-Hardware.git
+[submodule "Motoransteuerung/Hardware/Gerberfiles"]
+	path = Motoransteuerung/Hardware/Gerberfiles
+	url = https://github.com/Benji216/Fussballwurfmaschine-Hardware.git
